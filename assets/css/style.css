@@ -45,3 +45,6 @@ div {
     animation-iteration-count: infinite;
     animation-duration: 5s;
 }
+div:hover {
+    animation-play-state: paused;
+}
