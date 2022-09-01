@@ -7,7 +7,7 @@ Aufgabenstellung
 
 Erstelle einen Ball, der sich in alle Browser Ecken bewegt. Zusätzlich soll er seine Farbe ändern.
 
-#Der Ball soll anhalten, wenn die Maus ihn berührt.
+# Der Ball soll anhalten, wenn die Maus ihn berührt.
 
 Bitte schaue dir die Animation in der Ergebnisvorschau an.
 
